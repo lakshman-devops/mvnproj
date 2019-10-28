@@ -12,7 +12,7 @@
         <h1>.... DEVOPS.....</h1>
 
 
-<table width="50%" bgcolor="pink" align="center" border="22">
+<table width="50%" bgcolor="yellow" align="center" border="22">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
